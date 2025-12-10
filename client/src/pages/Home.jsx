@@ -1,12 +1,18 @@
 import React from 'react'
 import Hero from '../components/Hero'
-import NavBar from '../components/NavBar'
+import LatestListings from '../components/LatestListings'
+import Plans from '../components/Plans'
+import CTA from '../components/CTA'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
     <div>
-      <NavBar />
       <Hero />
+      <LatestListings />
+      <Plans />
+      <CTA />
+      <Footer />
     </div>
   )
 }

@@ -191,8 +191,8 @@ export const dummyListings = [
         isCredentialSubmitted: false,
         isCredentialVerified: false,
         isCredentialChanged: false,
-        createdAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
-        updatedAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
+        createdAt: 'Fri Dec 05 2025 01:40:10 GMT+0530 (India Standard Time)',
+        updatedAt: 'Fri Dec 05 2025 01:40:10 GMT+0530 (India Standard Time)',
     },
     {
         id: 'listing_5',
@@ -221,6 +221,35 @@ export const dummyListings = [
         createdAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
         updatedAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
     },
+
+
+    // {
+    //     id: 'listing_6',
+    //     ownerId: 'user_2',
+    //     title: 'Music Twitch Channel with 20k Followers',
+    //     platform: 'flipearn',
+    //     username: 'muskan',
+    //     followers_count: 132,
+    //     engagement_rate: 9,
+    //     monthly_views: 150,
+    //     niche: 'music',
+    //     price: 100,
+    //     description: 'Active music streaming channel with loyal audience and consistent income from subscribers and donations.',
+    //     verified: true,
+    //     monetized: true,
+    //     country: 'india',
+    //     age_range: '18-22',
+    //     status: 'sold',
+    //     featured: false,
+    //     images: [image_1, image_2, image_3, image_4],
+    //     platformAssured: true,
+    //     owner: dummyUsers[0],
+    //     isCredentialSubmitted: true,
+    //     isCredentialVerified: true,
+    //     isCredentialChanged: true,
+    //     createdAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
+    //     updatedAt: 'Thu Oct 16 2025 12:52:10 GMT+0530 (India Standard Time)',
+    // },
 ];
 
 export const dummyMessages = [
